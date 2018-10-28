@@ -2,7 +2,6 @@
     text-align: center;
     background:url(../images/d1be39846a576273f60add2a93c5686a.jpg);
     background-repeat: no-repeat;
-    /*Used background-size:cover, because i did not want the photo to stretch*/
     background-size: cover; 
  
     }

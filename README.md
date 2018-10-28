@@ -17,6 +17,6 @@ After you submit, you will see a new button created for your new gif.
 Click on the new button to populate the gif.
 
 There is minimal CSS and Bootstrap used in this assignment.
-There is only one image in this assignment and it used used in the jumbotron as a background image. 
+
 --------------------------------------------------------------------------------------
-Also, please ignore all comments. Comments are left in code for revision purposes. They will be removed at a later date.
+Also, please ignore all comments. Comments are left in code for revision purposes only. They will be removed at a later date.

@@ -1,7 +1,9 @@
 # GifTastic
 Created a page of Gifs.
 
+
 The theme of the gif page is "influential women" throughout history. This topic can cover fictional and non-fictional women.
+
 I created an array of 25 influential women.
 I limited the amount of gifs to 10.
 

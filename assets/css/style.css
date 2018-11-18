@@ -12,3 +12,10 @@
     font-family: 'Times New Roman', Times, serif
  }
 
+ /* This is how you make the gifs all the same size, i will make this change later, need to figure out how not to cut off some of the content first
+ .gif{
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+}
+*\

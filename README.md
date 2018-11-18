@@ -20,3 +20,5 @@ There is minimal CSS and Bootstrap used in this assignment.
 
 --------------------------------------------------------------------------------------
 Also, please ignore all comments. Comments are left in code for revision purposes only. They will be removed at a later date.
+Deployed site linked below.
+https://ashackn.github.io/GifTastic/
